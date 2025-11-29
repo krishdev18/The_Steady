@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
 
 # THESTEADY
 ### *Financial Stability for the Gig Economy*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-19.0-blue)](https://react.dev/)
-[![Powered by Gemini](https://img.shields.io/badge/AI-Gemini_1.5-8E75B2)](https://deepmind.google/technologies/gemini/)
+
 
 </div>
 
